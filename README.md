@@ -2,7 +2,7 @@
 
 My name is Žiga and I am software engineer based in Slovenia 🇸🇮. I've been working on many different projects (in my job and as a hobby). In past years my main focus was blockchain ⛓️. I have many interests and am looking forward to learn new things and publish useful code here and contribute to open-source projects.
 
-You can reach me on (Linkedin)[https://www.linkedin.com/in/ziga-kokelj/] 🔗 
+You can reach me on [Linkedin](https://www.linkedin.com/in/ziga-kokelj/) 🔗 
 
 
 
