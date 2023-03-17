@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-My name is Žiga and I am software engineer based in Slovenia 🇸🇮. I've been working on many different projects (in my job and as a hobby). In past years my main focus was blockchain ⛓️. I have many interests and am looking forward to learn new things and publish useful code here and contribute to open-source projects.
+My name is Žiga and I am software engineer based in Slovenia 🇸🇮.
+I've been working on many different projects (in my job and as a hobby). In past years my main focus was blockchain ⛓️. I have many interests and am looking forward to learn new things and publish useful code here and contribute to open-source projects.
 
 You can reach me on [Linkedin](https://www.linkedin.com/in/ziga-kokelj/) 🔗 
 
-
+My tech stack:
+- Python, C++, Java, Solidity, ... 
 
 <!--
 **zkokelj/zkokelj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
